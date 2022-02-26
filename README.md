@@ -2,7 +2,7 @@
 -----
 # FEATURES
 
-  - Responsive 95%✔️
+  - Responsive 95% ✔️
   - Easy To Use ✔️
   - Comfortable Color's ✔️
   - Preloader ✔️
